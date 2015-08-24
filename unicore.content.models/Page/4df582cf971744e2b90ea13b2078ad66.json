@@ -6,12 +6,12 @@
   "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
   "created_at": "2014-09-02T15:43:37+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-08-24T08:12:31.243889+00:00", 
+  "modified_at": "2015-08-24T08:32:37.816424+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "5efcc23380154d7996f49837bcd77d09", 
   "published": true, 
-  "position": 4, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "what-are-typical-signs-and-symptoms-of-infection", 
   "uuid": "4df582cf971744e2b90ea13b2078ad66"
