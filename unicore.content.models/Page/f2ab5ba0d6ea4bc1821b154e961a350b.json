@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "5006db6c3dc640c3b4703e871ea07723"
+  ], 
   "id": "f2ab5ba0d6ea4bc1821b154e961a350b", 
   "content": "WHO strongly recommends that people seek credible health advice about Ebola virus disease from their public health authority.\r\n\r\nWhile there is no specific drug against Ebola, the best treatment is intensive supportive treatment provided in the hospital by health workers using strict infection control procedures. The infection can be controlled through recommended protective measures.\r\n\r\nNext article:", 
   "source": null, 
