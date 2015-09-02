@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "13ffb04ddb80418bb564f0fb07681cef"
+  ], 
   "id": null, 
   "content": "L\u2019OMS recommande fortement de ne chercher des conseils cr\u00e9dibles sur la maladie \u00e0 virus Ebola qu\u2019aupr\u00e8s des autorit\u00e9s de la sant\u00e9 publique comp\u00e9tentes.\r\n\r\nAlors qu\u2019il n\u2019existe aucun m\u00e9dicament sp\u00e9cifique, le meilleur traitement reste les soins intensifs de soutien dispens\u00e9s \u00e0 l\u2019h\u00f4pital par des agents de sant\u00e9 appliquant strictement les proc\u00e9dures de lutte contre l\u2019infection. Les mesures de protection recommand\u00e9es permettent de combattre la maladie.\r\n\r\n\r\nArticle suivant:", 
   "source": null, 
