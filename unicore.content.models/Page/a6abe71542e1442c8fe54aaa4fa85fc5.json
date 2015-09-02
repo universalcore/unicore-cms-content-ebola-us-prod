@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Lors d\u2019une flamb\u00e9e de maladie \u00e0 virus Ebola, les autorit\u00e9s de sant\u00e9 publique du pays concern\u00e9...", 
+  "language": "fre_FR", 
+  "title": "Pourquoi observe-t-on des hausses et des baisses du nombre des cas notifi\u00e9s par les autorit\u00e9s sanitaires au cours d\u2019une flamb\u00e9e?", 
+  "primary_category": "8e07fd959cf44343928a36098c7fe412", 
+  "created_at": "2015-09-02T19:38:37.742117+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-09-02T19:38:37.742395+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Lors d\u2019une flamb\u00e9e de maladie \u00e0 virus Ebola, les autorit\u00e9s de sant\u00e9 publique du pays concern\u00e9 notifient le nombre des cas et des d\u00e9c\u00e8s. Ces chiffres peuvent changer tous les jours. On retrouve dans le nombre de cas \u00e0 la fois les cas suspects et les cas confirm\u00e9s en laboratoire. Ces deux chiffres sont communiqu\u00e9s parfois ensemble, parfois s\u00e9par\u00e9ment. Il en r\u00e9sulte qu\u2019ils peuvent changer par passage d\u2019une cat\u00e9gorie de cas \u00e0 l\u2019autre.\r\n\r\nL\u2019analyse des donn\u00e9es sur les cas dans le temps, avec des donn\u00e9es suppl\u00e9mentaires, est en g\u00e9n\u00e9ral plus utile pour \u00e9valuer la situation de la sant\u00e9 publique et d\u00e9terminer l\u2019action appropri\u00e9e.\r\n\r\n\r\nArticle suivant:", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "899f51549439483297440177bceacef5", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "pourquoi-observe-t-des-hausses-et-des-baisses-du-nombre-des-cas-notifies-par-les-autorites-sanitaires-au-cours-dune-flambee", 
+  "uuid": "a6abe71542e1442c8fe54aaa4fa85fc5"
+}
