@@ -4,14 +4,14 @@
   "language": "fre_FR", 
   "title": "Comment l\u2019OMS prot\u00e8ge-t-elle la sant\u00e9 au cours des flamb\u00e9es?", 
   "primary_category": "8e07fd959cf44343928a36098c7fe412", 
-  "created_at": "2015-09-02T19:35:20.432074+00:00", 
+  "created_at": "2015-09-02T19:35:20+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-02T19:35:20.432346+00:00", 
+  "modified_at": "2015-09-02T19:51:31.070156+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "2c2d2ef9347e475096ed5a3b233a4a45", 
   "published": null, 
-  "position": 0, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "comment-loms-protege-t-elle-la-sante-au-cours-des-flambees", 
   "uuid": "13ffb04ddb80418bb564f0fb07681cef"
