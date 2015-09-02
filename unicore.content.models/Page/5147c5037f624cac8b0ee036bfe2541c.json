@@ -4,14 +4,14 @@
   "language": "fre_FR", 
   "title": "Comment l\u2019\u00eatre humain est-il infect\u00e9 par le virus?", 
   "primary_category": "8e07fd959cf44343928a36098c7fe412", 
-  "created_at": "2015-09-02T19:19:47.794250+00:00", 
+  "created_at": "2015-09-02T19:19:47+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-02T19:19:47.794515+00:00", 
+  "modified_at": "2015-09-02T19:47:10.438016+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "ee0d8a44273a4ca09edf235d54801c6d", 
   "published": null, 
-  "position": 0, 
+  "position": 10, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "comment-letre-humain-est-il-infecte-par-le-virus", 
   "uuid": "5147c5037f624cac8b0ee036bfe2541c"
