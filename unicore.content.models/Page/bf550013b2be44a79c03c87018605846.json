@@ -3,15 +3,15 @@
   "description": "Punguza kiwango cha vifo vitokanavyo na Ebola\r\n\r\n", 
   "language": "swa_TZ", 
   "title": "Wakati gani mtu akapate matibabu?", 
-  "primary_category": "b0c5d9b0daf44b6e987cea62125f7ec9", 
-  "created_at": "2015-09-12T09:54:10.103382+00:00", 
+  "primary_category": "ece71c9deb744290b4fb9f659d95647d", 
+  "created_at": "2015-09-12T09:54:10+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-12T09:54:10.103593+00:00", 
+  "modified_at": "2015-09-12T10:07:05.975573+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "wakati-gani-mtu-akapate-matibabu", 
   "uuid": "bf550013b2be44a79c03c87018605846"
