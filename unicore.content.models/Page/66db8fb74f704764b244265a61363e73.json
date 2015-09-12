@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Wakati wa mlipuko wa Ebola, wenye hatari zaidi ya kuambukizwa ni...", 
+  "language": "swa_TZ", 
+  "title": "Nani wapo katika hatari zaidi ya kupata ugonjwa wa ebola?", 
+  "primary_category": "b0c5d9b0daf44b6e987cea62125f7ec9", 
+  "created_at": "2015-09-12T09:59:20.153139+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-09-12T09:59:20.153357+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Kila mtu yupo katika hatari ya kuambukizwa na virusi vya ebola, hata hivyo makundi ya watu wafuatao wapo kwenye hatari zaidi ya kuambukizwa virusi vya ebola:\r\n\r\n - Wanafamilia, majirani na marafiki wanaoishi na/au kumhudumia mgonjwa wa Ebola \r\n - Waombolezaji ambao wanaweza kugusa mwili wa marehemu kama sehemu ya utaratibu wa mazishi\r\n - Watu wanofanya kazi ya kuhudumia watu wengi - hospitali, benki, vitengo vya huduma kwa wateja kwenye taasisi mbali mbali, wasafishaji n.k\r\n - Wawindaji wa msituni ambao wanaweza kugusa mizoga ya wanyama\r\n\r\nMakala inayofuata :\r\nDalili za ugonjwa wa Ebola ni zipi?\r\n", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "nani-wapo-katika-hatari-zaidi-ya-kupata-ugonjwa-wa-ebola", 
+  "uuid": "66db8fb74f704764b244265a61363e73"
+}
