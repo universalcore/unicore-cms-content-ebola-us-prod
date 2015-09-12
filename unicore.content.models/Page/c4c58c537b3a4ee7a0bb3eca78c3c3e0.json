@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Jifunze njia za kujikinga na maambukizi ya Ebola.\r\n\r\n", 
+  "language": "swa_TZ", 
+  "title": "Nifanye nini ili kujikinga na ugonjwa wa Ebola?", 
+  "primary_category": "b0c5d9b0daf44b6e987cea62125f7ec9", 
+  "created_at": "2015-09-12T09:49:35.256596+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-09-12T09:49:35.256790+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "\r\nNjia za kujikinga na ugonjwa huu ni :\r\n\r\n - Epuka kusalimiana kwa kushikana mikono au kukumbatiana\r\n - Epuka kugusa damu, matapishi, mkojo, kinyesi, kamasi, mate, machozi na maji maji mengine yanayotoka mwilini mwa mtu mwenye dalili za ugonjwa huu\r\n - Epuka kugusa au kuosha maiti ya mtu aliyekufaakiwa na dalili za ebola badala yake toa taarifa kwa uongozi wa serikali ili wasimamie taatibu za mazishi\r\n - Epuka kutumia nguo, shuka, blanketi, kitanda nagodoro za mtu aliyeambukizwa ugonjwa, toa taarifa kwenye ofisi za serikali ya eneo husika\r\n - Kwa kuwa ugonjwa huu pia huambukizwa kwa njia ya kujamiiana, epuka kuwa na mpenzi zaidi ya mmoja\r\n - Nawa mikono kwa maji yanayotiririka na sabuni mara unapomtembelea mgonjwa hospitalini au kumhudumia nyumbani\r\n - Epuka kugusa wanyama kama vile popo, nyani, sokwe, tumbili na swala au mizoga ya wanyama\r\n - Zingatia ushauri na maelekezo yanayotolewa na wataalamu wa afya na viongozi wa serikali.\r\n - Wahi kituo cha kutolea huduma za afya uonapo dalili za ugonjwa wa Ebola\r\n - Toa taaifa mapema kwa watoa huduma za afya uonapo mtu mwenye dalili za ugonjwa wa Ebola au kifo\r\n - Zingatia usafi binafsi pamoja na usafi wa mazingira yako\r\n\r\n\r\nMakala inayofuata :\r\nEbola ni nini?\r\n", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "nifanye-nini-ili-kujikinga-na-ugonjwa-wa-ebola", 
+  "uuid": "c4c58c537b3a4ee7a0bb3eca78c3c3e0"
+}
