@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "bf550013b2be44a79c03c87018605846"
+  ], 
   "id": null, 
   "content": "Dalili za ugonjwa wa Ebola uanza kujitokeza kati ya siku 2 hadi 21 baada ya kupata maambukizi. Mgonjwa wa Ebola huwa na dalili zifuatazo:\r\n\r\n - Homa kali ya ghafla\r\n - Maumivu ya kichwa\r\n - Maumivu ya mwili, misuli na viungo\r\n - Kuharisha (kunaweza kuambatana na damu)\r\n - Kutapika (kunaweza kuambatana na damu)\r\n - Vipele mwilini\r\n - Kuvia damu chini ya ngozi au kutokwa na damu puani, mdomoni, machoni, na masikioni na sehemu ya haja ndogo na kubwa\r\n\r\nMakala Inayofuata", 
   "source": null, 
