@@ -6,15 +6,17 @@
   "primary_category": "8e07fd959cf44343928a36098c7fe412", 
   "created_at": "2015-09-02T19:35:20+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-02T19:35:20+00:00", 
+  "modified_at": "2015-10-15T08:30:46.110923+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "a6abe71542e1442c8fe54aaa4fa85fc5"
+  ], 
   "id": null, 
   "content": "L\u2019OMS donne des conseils techniques aux pays et aux communaut\u00e9s pour se pr\u00e9parer et r\u00e9agir aux flamb\u00e9es de maladie \u00e0 virus Ebola.\r\n\r\nElle m\u00e8ne les actions suivantes:\r\n\r\n - surveillance de la maladie et \u00e9changes d\u2019informations entre les r\u00e9gions pour d\u00e9celer les flamb\u00e9es;\r\n\r\n - assistance technique pour enqu\u00eater sur les menaces sanitaires quand elles se produisent et les endiguer, avec par exemple une aide sur le terrain pour rep\u00e9rer les malades et suivre l\u2019\u00e9volution de la maladie;\r\n\r\n - avis sur les options pour la pr\u00e9vention et le traitement;\r\n\r\n - d\u00e9ploiement d\u2019experts et distribution de fournitures (comme les \u00e9quipements de protection individuelle pour les agents de sant\u00e9) lorsque le pays en fait la demande\r\n\r\n - communications pour faire conna\u00eetre la nature de la maladie et sensibiliser aux mesures de protection de la sant\u00e9 destin\u00e9es \u00e0 endiguer la transmission du virus;\r\n\r\n - activation des r\u00e9seaux r\u00e9gionaux et mondiaux d\u2019experts pour fournir, sur demande, une assistance et att\u00e9nuer les effets potentiels sur la sant\u00e9 publique internationale ainsi que les perturbations dans le secteur des voyages et celui du commerce.\r\n\r\nArticle suivant:", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": "2c2d2ef9347e475096ed5a3b233a4a45", 
   "published": null, 
-  "position": 9, 
+  "position": 21, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "comment-loms-protege-t-elle-la-sante-au-cours-des-flambees", 
   "uuid": "13ffb04ddb80418bb564f0fb07681cef"
