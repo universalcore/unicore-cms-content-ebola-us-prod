@@ -5,13 +5,13 @@
   "title": "Mtu anawezaje kuambukizwa virusi vya Ebola?", 
   "primary_category": "ece71c9deb744290b4fb9f659d95647d", 
   "created_at": "2015-09-12T10:01:50+00:00", 
-  "featured_in_category": true, 
-  "modified_at": "2015-09-14T12:54:07.318502+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-11-26T13:18:36.710026+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,11 +20,11 @@
   "id": null, 
   "content": "Mtu anaweza kuambukizwa ugonjwa wa Ebola toka kwa mtu mwingine aliyeambukizwa, au toka kwa wanyama kama nyani, ngedere, sokwe na popo.\r\n\r\nUgonjwa wa Ebola unaambukizwa kwa haraka kutoka mtu mmoja hadi mwingine kupitia njia zifuatazo:-\r\n\r\n - Kugusa majimaji ya mwilini toka kwa mtu aliyeambukizwa virusi vya Ebola - damu, matapishi, jasho, mkojo, mate, machozi, kamasi \r\n - Kugusa na kuosha maiti ya mtu aliyefariki kwa ugonjwa wa Ebola\r\n - Kugusa godoro, shuka, blanketi, au nguo zilizotumiwa na mgonjwa wa Ebola\r\n - Kuchomwa na sindano au vifaa visivyo safi na salama \r\n - Kugusa mizoga au kula wanyama pori kama vile sokwe, nyani na popo\r\n\r\nUgonjwa wa Ebola pia unaweza kuambukizwa kwa kugusa mizoga au kula wanyama pori kama vile sokwe, nyani na popo, pamoja na kula matunda yaliyoliwa nusu na wanyama\r\n\r\nMakala Inayofuata\r\n\r\n\r\n\r\n", 
   "source": null, 
-  "featured": true, 
+  "featured": false, 
   "author_tags": [], 
   "image": "af02dd0d027b422f9d17effda3089694", 
   "published": null, 
-  "position": 1, 
+  "position": 19, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "mtu-anawezaje-kuambukizwa-virusi-vya-ebola", 
   "uuid": "642a5f82ce714cbca5e85903efd9a40a"
