@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "256e6571af4e4133953ebcabf8462cb9"
+  ], 
   "id": null, 
   "content": "Taarifa hii Ebola itajibu maswali yaulizwayo mara kwa mara kuhusu Ebola. Taarifa hizi zinaletwa kwenu kwa ushirikiano wa Shirika la Afya Duniani (WHO) na  Shirika la Kuhudumia Watoto katika Umoja wa Mataifa.\r\n\r\nMakala Inayofuata\r\n\r\n", 
   "source": null, 
