@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "7e35ce82cd03463bb434e083ba8c0193"
+  ], 
   "id": null, 
   "content": "Kila mtu yupo katika hatari ya kuambukizwa na virusi vya ebola, hata hivyo makundi ya watu wafuatao wapo kwenye hatari zaidi ya kuambukizwa virusi vya ebola:\r\n\r\n - Wanafamilia, majirani na marafiki wanaoishi na/au kumhudumia mgonjwa wa Ebola \r\n - Waombolezaji ambao wanaweza kugusa mwili wa marehemu kama sehemu ya utaratibu wa mazishi\r\n - Watu wanofanya kazi ya kuhudumia watu wengi - hospitali, benki, vitengo vya huduma kwa wateja kwenye taasisi mbali mbali, wasafishaji n.k\r\n - Wawindaji wa msituni ambao wanaweza kugusa mizoga ya wanyama\r\n\r\nMakala Inayofuata", 
   "source": null, 
