@@ -10,13 +10,11 @@
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [
-    "4b0c4b4a38464f209747c7feedb9eccb"
-  ], 
+  "linked_pages": [], 
   "id": "27fe3d61face49ffb8522a7338d2789d", 
   "content": "During an Ebola outbreak, the affected country\u2019s public health authority reports its disease case numbers and deaths. Figures can change daily. Case numbers reflect both suspected cases and laboratory-confirmed cases of Ebola. Sometimes numbers of suspected and confirmed cases are reported together. Sometimes they are reported separately. Thus, numbers can shift between suspected and confirmed cases.\r\n\r\nAnalyzing case data trends, over time, and with additional information, is generally more helpful to assess the public health situation and determine the appropriate response.\r\n\r\nNext article:", 
   "source": null, 
