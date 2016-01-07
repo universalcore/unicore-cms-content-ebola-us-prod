@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "f4bb03166ffa4b9ca390c7fa9f80af8c"
+  ], 
   "id": null, 
   "content": "Cette FAQ r\u00e9pond aux questions les plus fr\u00e9quemment pos\u00e9es sur la maladie \u00e0 virus Ebola. Cette s\u00e9rie de Questions/R\u00e9ponses a \u00e9t\u00e9 \u00e9labor\u00e9e en collaboration avec l'OMS et UNICEF.\r\n\r\nArticle suivant:", 
   "source": null, 
