@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Las personas se contagian del virus del Zika por la picadura del mosquito Aedes", 
+  "language": "spa_ES", 
+  "title": "\u00bfC\u00f3mo se contrae el virus del Zika?", 
+  "primary_category": "9d023aecc00d43bfbbc2856b016d7ec1", 
+  "created_at": "2016-02-17T12:57:13.302790+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-02-17T12:57:13.303117+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "El virus del Zika se transmite a las personas mediante la picadura de un mosquito infectado del g\u00e9nero Aedes, y tambi\u00e9n por la sangre. A\u00fan se est\u00e1n investigando posibles casos de contagio mediante transmisi\u00f3n sexual.\r\n\r\nSi usted muestra s\u00edntomas o le diagnostican el Zika, ayude a prevenir la infecci\u00f3n de otros miembros de su familia evitando las picaduras de mosquito.", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "d68d44067f7e4bc3882ed9c9bcefe57e", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "como-se-contrae-el-virus-del-zika", 
+  "uuid": "fbc97bddbb56420f8310a64b05d2b24c"
+}
