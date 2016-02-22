@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "spa_ES", 
+  "title": "\u00bfQu\u00e9 es la microcefalia?", 
+  "primary_category": "9d023aecc00d43bfbbc2856b016d7ec1", 
+  "created_at": "2016-02-22T06:52:59.332644+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-02-22T06:52:59.332882+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "La microcefalia es una anomal\u00eda por la que la cabeza de un beb\u00e9 presenta un tama\u00f1o anormalmente peque\u00f1o debido al desarrollo insuficiente del cerebro en el \u00fatero. El desarrollo cerebral de los beb\u00e9s y los ni\u00f1os con microcefalia suele encontrarse con dificultades durante el crecimiento. Los cient\u00edficos siguen investigando si el aumento de casos de microcefalia en Brasil est\u00e1 directamente relacionado con el brote del virus del Zika. ", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "que-es-la-microcefalia", 
+  "uuid": "a4a953973cb74da2bb6e2aec9bd70003"
+}
