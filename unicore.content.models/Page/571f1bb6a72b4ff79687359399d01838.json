@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "It\u2019s spreading fast!", 
+  "language": "eng_GB", 
+  "title": "Where is Zika virus?", 
+  "primary_category": "b5ea5936b226436187f8c0b2f5707399", 
+  "created_at": "2016-03-04T06:49:46.705445+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-03-04T06:49:46.705674+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Zika is now a public health emergency in many parts of Latin America & the Caribbean. More than 30 countries and territories have reported Zika cases. 26 of them in the Americas, with Brazil reporting the most cases. Find the latest information on geographic distribution of confirmed cases of Zika virus in countries and territories of the Americas by visiting the Pan American Health Organization official map : [http://ais.paho.org/phip/viz/ed_zika_countrymap.asp][1] \r\n\r\nNext article:\r\n\r\n\r\n  [1]: http://ais.paho.org/phip/viz/ed_zika_countrymap.asp", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "657db76ae1f74f43b79581cb82e2eae9", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "where-zika-virus", 
+  "uuid": "571f1bb6a72b4ff79687359399d01838"
+}
