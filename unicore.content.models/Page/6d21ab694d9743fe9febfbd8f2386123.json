@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "If you are pregnant or planning to become pregnant, take extra care", 
+  "language": "eng_GB", 
+  "title": "Should pregnant women be concerned about Zika?", 
+  "primary_category": "b5ea5936b226436187f8c0b2f5707399", 
+  "created_at": "2016-03-04T06:44:46.911202+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-03-04T06:44:46.911495+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Public health experts \u2018strongly suspect\u2019 that there is a relationship between the virus and the current spike in microcephaly in Brazil. If you are pregnant or planning to become pregnant, take extra care to protect yourself from mosquito bites and speak to your health provider. Although there is still no conclusive evidence of the relationship between Zika and microcephaly, there is enough concern to warrant immediate action.\r\n\r\nNext article:", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "ccb45307e8bc4fbe949d159ad6cc2efc", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "should-pregnant-women-be-concerned-about-zika", 
+  "uuid": "6d21ab694d9743fe9febfbd8f2386123"
+}
