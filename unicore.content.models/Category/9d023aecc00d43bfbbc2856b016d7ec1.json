@@ -2,13 +2,13 @@
   "subtitle": "", 
   "uuid": "9d023aecc00d43bfbbc2856b016d7ec1", 
   "language": "spa_ES", 
-  "title": "Lo que necesita saber sobre el virus del Zika", 
+  "title": "Lo que necesitas saber sobre el virus del Zika", 
   "image": null, 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "lo-que-necesita-saber-sobre-el-virus-del-zika", 
