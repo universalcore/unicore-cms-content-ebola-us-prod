@@ -4,21 +4,21 @@
   "language": "eng_GB", 
   "title": "How do you treat Zika virus?", 
   "primary_category": "b5ea5936b226436187f8c0b2f5707399", 
-  "created_at": "2016-03-04T06:45:35.311211+00:00", 
+  "created_at": "2016-03-04T06:45:35+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-03-04T06:45:35.311455+00:00", 
+  "modified_at": "2016-05-09T21:06:23.957656+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
     "6d21ab694d9743fe9febfbd8f2386123"
   ], 
   "id": null, 
-  "content": "Symptoms of Zika virus disease can be treated with common pain and fever medicines (do not take aspirin or nonsteroidal anti-inflammatory drugs), rest and plenty of water.\r\n\r\nThere is no vaccine or specific treatment currently available for the disease. If symptoms worsen, people should seek medical care and advice.\r\n\r\n\r\nNext article:", 
+  "content": "There is no vaccine to prevent or medicine to treat Zika virus.\r\n\r\nHowever, you can \"treat the symptoms:\r\n\r\n* Get plenty of rest.\r\n* Drink fluids to prevent dehydration.\r\n* Take medicine such as acetaminophen (Tylenol\u00ae) or paracetamol to reduce fever and pain.\r\n* Do not take aspirin and other non-steroidal anti-inflammatory drugs (NSAIDS) until dengue can be ruled out to reduce the risk of bleeding.\r\n* If you are taking medicine for another medical condition, talk to your doctor or other healthcare provider before taking additional medication.\r\n* If you have Zika, prevent mosquito bites for the first week of your illness.\r\n* During the first week of infection, Zika virus can be found in the blood and passed from an infected person to a mosquito through mosquito bites.\r\n* An infected mosquito can then spread the virus to other people.\r\n\r\nFor the latest updates on Zika disease treatment, visit the CDC website here: http://www.cdc.gov/zika/symptoms/index.html\r\n\r\nNext article", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
