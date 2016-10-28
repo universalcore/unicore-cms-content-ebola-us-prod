@@ -6,12 +6,12 @@
   "primary_category": "9d023aecc00d43bfbbc2856b016d7ec1", 
   "created_at": "2016-02-17T12:59:33+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-03-07T05:59:11.237048+00:00", 
+  "modified_at": "2016-10-28T17:55:00.412240+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -19,7 +19,7 @@
   ], 
   "id": null, 
   "content": "Algunas medidas sencillas pueden reducir el riesgo de que te pique un mosquito infectado por el virus del Zika. Entre ellas hay que citar el repelente contra insectos y el uso de ropa larga y de colores vivos para cubrir el cuerpo todo lo posible.\r\n\r\n**\u00a1Sin mosquitos, no hay Zika!**\r\n\r\nEliminar las zonas donde los mosquitos pueden reproducirse y colocar pantallas delante de ventanas y puertas tambi\u00e9n puede contribuir a mantener a salvo tu entorno. Elimina los criaderos de mosquitos:\r\n\r\n- Conservar el agua limpia en tanques de almacenamiento cubiertos\r\n- Limpiar la basura y los residuos\r\n- Informar a las autoridades si hay filtraciones en las tuber\u00edas \r\n- Eliminar el agua estancada\r\n\r\nPuedes protegerte y proteger a tu familia manteniendo lejos a los mosquitos. Debido a que los mosquitos pican durante el d\u00eda, los ni\u00f1os peque\u00f1os, las mujeres embarazadas y las personas que han contra\u00eddo el virus del Zika deber\u00edan descansar bajo mosquiteros.\r\n\r\nArt\u00edculo siguiente:\r\n", 
-  "source": null, 
+  "source": "516497e3e4f64f2cba3b0f66c99c065a", 
   "featured": false, 
   "author_tags": [], 
   "image": "57da05d6020a486ab6ec8a4036909903", 
