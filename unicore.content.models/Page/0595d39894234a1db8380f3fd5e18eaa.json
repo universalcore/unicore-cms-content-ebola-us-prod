@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "a4a953973cb74da2bb6e2aec9bd70003"
+  ], 
   "id": null, 
   "content": "Los expertos en salud p\u00fablica tienen \u201cgrandes sospechas\u201d de que existe una relaci\u00f3n entre el virus y el actual repunte en casos de microcefalia en Brasil. Si est\u00e1s embarazada o est\u00e1s intentando quedar embarazada, adopta medidas adicionales para protegerte de las picaduras de mosquito y habla con tu proveedor de salud. Aunque no existen pruebas concluyentes sobre la relaci\u00f3n entre el Zika y la microcefalia, s\u00ed hay una preocupaci\u00f3n lo suficientemente grande como para pedir acciones inmediatas.\t\t\r\n\r\nArt\u00edculo siguiente:\r\n", 
   "source": "6d21ab694d9743fe9febfbd8f2386123", 
