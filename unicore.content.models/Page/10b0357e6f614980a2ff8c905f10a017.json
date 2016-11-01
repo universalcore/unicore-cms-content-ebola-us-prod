@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "fbc97bddbb56420f8310a64b05d2b24c"
+  ], 
   "id": null, 
   "content": "UNICEF est\u00e1 contribuyendo a limitar la transmisi\u00f3n del virus del Zika y su impacto en los ni\u00f1os y sus familias, especialmente en las comunidades m\u00e1s desfavorecidas. Estamos trabajando con los gobiernos para movilizar a las comunidades y lograr que se protejan de la infecci\u00f3n. Adem\u00e1s, hemos hecho un llamamiento de 14 millones de d\u00f3lares estadounidenses para atender las necesidades humanitarias inmediatas de las comunidades afectadas.\r\n\r\nEstos fondos se utilizar\u00e1n para ayudar a atender a esas comunidades \u2013casi 200 millones de personas\u2013 con la informaci\u00f3n que necesitan para permanecer a salvo. Aqu\u00ed puedes obtener m\u00e1s informaci\u00f3n sobre nuestro llamamiento: [http://www.unicef.org/appeals/Zika_response.html][1]\r\n\r\nArt\u00edculo siguiente:\r\n\r\n\r\n  [1]: http://www.unicef.org/appeals/Zika_response.html", 
   "source": "c72fbaf8fd634bd8a51b81633517e30b", 
